@@ -4,7 +4,7 @@ This repository contains a statistic library for the C programming language whic
 
 ### Usage
 
-You needed to put in the files ```statistic.h``` and ```statistic.c``` in your project directory. After that you include the header file ```statistic.h```  
+You needed to put in the files ```statistic.h``` and ```statistic.c``` in your project directory. After that you include the header file ```statistic.h```
 in your project. Then you can use the functions of this library. You will find the files ```statistic.h``` and ```statistic.c``` in the directory **src**.  
 
 ### Overview about the functions

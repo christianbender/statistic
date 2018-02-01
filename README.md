@@ -15,7 +15,8 @@ The first int-argument represents the size of the sample (double-array).
 /*
     Computes the average of a given sample.
     The sample is a set of double values.
-    The average-function gets a variable number of arguments. The first argument must be the number of arguments!
+    The average-function gets a variable number of arguments. 
+    The first argument must be the number of arguments!
     The averageArray-function instead gets a double-array of values and a int-number that
     represents the size of the double-array.
 */
